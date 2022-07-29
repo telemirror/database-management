@@ -1,0 +1,470 @@
+DBM.cpp: In member function ‘void stock::withd(int)’:
+DBM.cpp:34:11: error: too few arguments to function ‘int getc(FILE*)’
+      getc();
+           ^
+In file included from /usr/include/c++/8/cstdio:42,
+                 from /usr/include/c++/8/ext/string_conversions.h:43,
+                 from /usr/include/c++/8/bits/basic_string.h:6404,
+                 from /usr/include/c++/8/string:52,
+                 from /usr/include/c++/8/bits/locale_classes.h:40,
+                 from /usr/include/c++/8/bits/ios_base.h:41,
+                 from /usr/include/c++/8/ios:42,
+                 from /usr/include/c++/8/ostream:38,
+                 from /usr/include/c++/8/iostream:39,
+                 from DBM.cpp:1:
+/usr/include/stdio.h:492:12: note: declared here
+ extern int getc (FILE *__stream);
+            ^~~~
+DBM.cpp: In member function ‘void stock::refil(int)’:
+DBM.cpp:44:11: error: too few arguments to function ‘int getc(FILE*)’
+      getc();
+           ^
+In file included from /usr/include/c++/8/cstdio:42,
+                 from /usr/include/c++/8/ext/string_conversions.h:43,
+                 from /usr/include/c++/8/bits/basic_string.h:6404,
+                 from /usr/include/c++/8/string:52,
+                 from /usr/include/c++/8/bits/locale_classes.h:40,
+                 from /usr/include/c++/8/bits/ios_base.h:41,
+                 from /usr/include/c++/8/ios:42,
+                 from /usr/include/c++/8/ostream:38,
+                 from /usr/include/c++/8/iostream:39,
+                 from DBM.cpp:1:
+/usr/include/stdio.h:492:12: note: declared here
+ extern int getc (FILE *__stream);
+            ^~~~
+DBM.cpp: In function ‘void addnew()’:
+DBM.cpp:97:7: error: too few arguments to function ‘int getc(FILE*)’
+  getc();
+       ^
+In file included from /usr/include/c++/8/cstdio:42,
+                 from /usr/include/c++/8/ext/string_conversions.h:43,
+                 from /usr/include/c++/8/bits/basic_string.h:6404,
+                 from /usr/include/c++/8/string:52,
+                 from /usr/include/c++/8/bits/locale_classes.h:40,
+                 from /usr/include/c++/8/bits/ios_base.h:41,
+                 from /usr/include/c++/8/ios:42,
+                 from /usr/include/c++/8/ostream:38,
+                 from /usr/include/c++/8/iostream:39,
+                 from DBM.cpp:1:
+/usr/include/stdio.h:492:12: note: declared here
+ extern int getc (FILE *__stream);
+            ^~~~
+DBM.cpp: In function ‘void withdraw()’:
+DBM.cpp:180:7: error: too few arguments to function ‘int getc(FILE*)’
+  getc();
+       ^
+In file included from /usr/include/c++/8/cstdio:42,
+                 from /usr/include/c++/8/ext/string_conversions.h:43,
+                 from /usr/include/c++/8/bits/basic_string.h:6404,
+                 from /usr/include/c++/8/string:52,
+                 from /usr/include/c++/8/bits/locale_classes.h:40,
+                 from /usr/include/c++/8/bits/ios_base.h:41,
+                 from /usr/include/c++/8/ios:42,
+                 from /usr/include/c++/8/ostream:38,
+                 from /usr/include/c++/8/iostream:39,
+                 from DBM.cpp:1:
+/usr/include/stdio.h:492:12: note: declared here
+ extern int getc (FILE *__stream);
+            ^~~~
+DBM.cpp: In function ‘void disp()’:
+DBM.cpp:203:7: error: too few arguments to function ‘int getc(FILE*)’
+  getc();
+       ^
+In file included from /usr/include/c++/8/cstdio:42,
+                 from /usr/include/c++/8/ext/string_conversions.h:43,
+                 from /usr/include/c++/8/bits/basic_string.h:6404,
+                 from /usr/include/c++/8/string:52,
+                 from /usr/include/c++/8/bits/locale_classes.h:40,
+                 from /usr/include/c++/8/bits/ios_base.h:41,
+                 from /usr/include/c++/8/ios:42,
+                 from /usr/include/c++/8/ostream:38,
+                 from /usr/include/c++/8/iostream:39,
+                 from DBM.cpp:1:
+/usr/include/stdio.h:492:12: note: declared here
+ extern int getc (FILE *__stream);
+            ^~~~
+DBM.cpp: In function ‘int main()’:
+DBM.cpp:277:7: error: too few arguments to function ‘int getc(FILE*)’
+  getc();
+       ^
+In file included from /usr/include/c++/8/cstdio:42,
+                 from /usr/include/c++/8/ext/string_conversions.h:43,
+                 from /usr/include/c++/8/bits/basic_string.h:6404,
+                 from /usr/include/c++/8/string:52,
+                 from /usr/include/c++/8/bits/locale_classes.h:40,
+                 from /usr/include/c++/8/bits/ios_base.h:41,
+                 from /usr/include/c++/8/ios:42,
+                 from /usr/include/c++/8/ostream:38,
+                 from /usr/include/c++/8/iostream:39,
+                 from DBM.cpp:1:
+/usr/include/stdio.h:492:12: note: declared here
+ extern int getc (FILE *__stream);
+            ^~~~
+DBM.cpp:298:16: error: too few arguments to function ‘int getc(FILE*)’
+   pass[z]=getc();
+                ^
+In file included from /usr/include/c++/8/cstdio:42,
+                 from /usr/include/c++/8/ext/string_conversions.h:43,
+                 from /usr/include/c++/8/bits/basic_string.h:6404,
+                 from /usr/include/c++/8/string:52,
+                 from /usr/include/c++/8/bits/locale_classes.h:40,
+                 from /usr/include/c++/8/bits/ios_base.h:41,
+                 from /usr/include/c++/8/ios:42,
+                 from /usr/include/c++/8/ostream:38,
+                 from /usr/include/c++/8/iostream:39,
+                 from DBM.cpp:1:
+/usr/include/stdio.h:492:12: note: declared here
+ extern int getc (FILE *__stream);
+            ^~~~
+DBM.cpp:320:17: error: too few arguments to function ‘int getc(FILE*)’
+   addnew();getc();
+                 ^
+In file included from /usr/include/c++/8/cstdio:42,
+                 from /usr/include/c++/8/ext/string_conversions.h:43,
+                 from /usr/include/c++/8/bits/basic_string.h:6404,
+                 from /usr/include/c++/8/string:52,
+                 from /usr/include/c++/8/bits/locale_classes.h:40,
+                 from /usr/include/c++/8/bits/ios_base.h:41,
+                 from /usr/include/c++/8/ios:42,
+                 from /usr/include/c++/8/ostream:38,
+                 from /usr/include/c++/8/iostream:39,
+                 from DBM.cpp:1:
+/usr/include/stdio.h:492:12: note: declared here
+ extern int getc (FILE *__stream);
+            ^~~~
+DBM.cpp:327:14: error: too few arguments to function ‘int getc(FILE*)’
+  disp();getc();goto dealermenu;
+              ^
+In file included from /usr/include/c++/8/cstdio:42,
+                 from /usr/include/c++/8/ext/string_conversions.h:43,
+                 from /usr/include/c++/8/bits/basic_string.h:6404,
+                 from /usr/include/c++/8/string:52,
+                 from /usr/include/c++/8/bits/locale_classes.h:40,
+                 from /usr/include/c++/8/bits/ios_base.h:41,
+                 from /usr/include/c++/8/ios:42,
+                 from /usr/include/c++/8/ostream:38,
+                 from /usr/include/c++/8/iostream:39,
+                 from DBM.cpp:1:
+/usr/include/stdio.h:492:12: note: declared here
+ extern int getc (FILE *__stream);
+            ^~~~
+DBM.cpp:335:17: error: too few arguments to function ‘int getc(FILE*)’
+   remove();getc();goto dealermenu;
+                 ^
+In file included from /usr/include/c++/8/cstdio:42,
+                 from /usr/include/c++/8/ext/string_conversions.h:43,
+                 from /usr/include/c++/8/bits/basic_string.h:6404,
+                 from /usr/include/c++/8/string:52,
+                 from /usr/include/c++/8/bits/locale_classes.h:40,
+                 from /usr/include/c++/8/bits/ios_base.h:41,
+                 from /usr/include/c++/8/ios:42,
+                 from /usr/include/c++/8/ostream:38,
+                 from /usr/include/c++/8/iostream:39,
+                 from DBM.cpp:1:
+/usr/include/stdio.h:492:12: note: declared here
+ extern int getc (FILE *__stream);
+            ^~~~
+DBM.cpp:340:7: error: too few arguments to function ‘int getc(FILE*)’
+  getc();
+       ^
+In file included from /usr/include/c++/8/cstdio:42,
+                 from /usr/include/c++/8/ext/string_conversions.h:43,
+                 from /usr/include/c++/8/bits/basic_string.h:6404,
+                 from /usr/include/c++/8/string:52,
+                 from /usr/include/c++/8/bits/locale_classes.h:40,
+                 from /usr/include/c++/8/bits/ios_base.h:41,
+                 from /usr/include/c++/8/ios:42,
+                 from /usr/include/c++/8/ostream:38,
+                 from /usr/include/c++/8/iostream:39,
+                 from DBM.cpp:1:
+/usr/include/stdio.h:492:12: note: declared here
+ extern int getc (FILE *__stream);
+            ^~~~
+DBM.cpp:347:7: error: too few arguments to function ‘int getc(FILE*)’
+  getc();
+       ^
+In file included from /usr/include/c++/8/cstdio:42,
+                 from /usr/include/c++/8/ext/string_conversions.h:43,
+                 from /usr/include/c++/8/bits/basic_string.h:6404,
+                 from /usr/include/c++/8/string:52,
+                 from /usr/include/c++/8/bits/locale_classes.h:40,
+                 from /usr/include/c++/8/bits/ios_base.h:41,
+                 from /usr/include/c++/8/ios:42,
+                 from /usr/include/c++/8/ostream:38,
+                 from /usr/include/c++/8/iostream:39,
+                 from DBM.cpp:1:
+/usr/include/stdio.h:492:12: note: declared here
+ extern int getc (FILE *__stream);
+            ^~~~
+DBM.cpp:348:7: error: too few arguments to function ‘int getc(FILE*)’
+  getc();
+       ^
+In file included from /usr/include/c++/8/cstdio:42,
+                 from /usr/include/c++/8/ext/string_conversions.h:43,
+                 from /usr/include/c++/8/bits/basic_string.h:6404,
+                 from /usr/include/c++/8/string:52,
+                 from /usr/include/c++/8/bits/locale_classes.h:40,
+                 from /usr/include/c++/8/bits/ios_base.h:41,
+                 from /usr/include/c++/8/ios:42,
+                 from /usr/include/c++/8/ostream:38,
+                 from /usr/include/c++/8/iostream:39,
+                 from DBM.cpp:1:
+/usr/include/stdio.h:492:12: note: declared here
+ extern int getc (FILE *__stream);
+            ^~~~
+DBM.cpp:349:7: error: too few arguments to function ‘int getc(FILE*)’
+  getc();
+       ^
+In file included from /usr/include/c++/8/cstdio:42,
+                 from /usr/include/c++/8/ext/string_conversions.h:43,
+                 from /usr/include/c++/8/bits/basic_string.h:6404,
+                 from /usr/include/c++/8/string:52,
+                 from /usr/include/c++/8/bits/locale_classes.h:40,
+                 from /usr/include/c++/8/bits/ios_base.h:41,
+                 from /usr/include/c++/8/ios:42,
+                 from /usr/include/c++/8/ostream:38,
+                 from /usr/include/c++/8/iostream:39,
+                 from DBM.cpp:1:
+/usr/include/stdio.h:492:12: note: declared here
+ extern int getc (FILE *__stream);
+            ^~~~
+DBM.cpp:350:7: error: too few arguments to function ‘int getc(FILE*)’
+  getc();
+       ^
+In file included from /usr/include/c++/8/cstdio:42,
+                 from /usr/include/c++/8/ext/string_conversions.h:43,
+                 from /usr/include/c++/8/bits/basic_string.h:6404,
+                 from /usr/include/c++/8/string:52,
+                 from /usr/include/c++/8/bits/locale_classes.h:40,
+                 from /usr/include/c++/8/bits/ios_base.h:41,
+                 from /usr/include/c++/8/ios:42,
+                 from /usr/include/c++/8/ostream:38,
+                 from /usr/include/c++/8/iostream:39,
+                 from DBM.cpp:1:
+/usr/include/stdio.h:492:12: note: declared here
+ extern int getc (FILE *__stream);
+            ^~~~
+DBM.cpp:351:7: error: too few arguments to function ‘int getc(FILE*)’
+  getc();
+       ^
+In file included from /usr/include/c++/8/cstdio:42,
+                 from /usr/include/c++/8/ext/string_conversions.h:43,
+                 from /usr/include/c++/8/bits/basic_string.h:6404,
+                 from /usr/include/c++/8/string:52,
+                 from /usr/include/c++/8/bits/locale_classes.h:40,
+                 from /usr/include/c++/8/bits/ios_base.h:41,
+                 from /usr/include/c++/8/ios:42,
+                 from /usr/include/c++/8/ostream:38,
+                 from /usr/include/c++/8/iostream:39,
+                 from DBM.cpp:1:
+/usr/include/stdio.h:492:12: note: declared here
+ extern int getc (FILE *__stream);
+            ^~~~
+DBM.cpp:352:7: error: too few arguments to function ‘int getc(FILE*)’
+  getc();
+       ^
+In file included from /usr/include/c++/8/cstdio:42,
+                 from /usr/include/c++/8/ext/string_conversions.h:43,
+                 from /usr/include/c++/8/bits/basic_string.h:6404,
+                 from /usr/include/c++/8/string:52,
+                 from /usr/include/c++/8/bits/locale_classes.h:40,
+                 from /usr/include/c++/8/bits/ios_base.h:41,
+                 from /usr/include/c++/8/ios:42,
+                 from /usr/include/c++/8/ostream:38,
+                 from /usr/include/c++/8/iostream:39,
+                 from DBM.cpp:1:
+/usr/include/stdio.h:492:12: note: declared here
+ extern int getc (FILE *__stream);
+            ^~~~
+DBM.cpp:370:18: error: too few arguments to function ‘int getc(FILE*)’
+  withdraw();getc();goto custmenu;
+                  ^
+In file included from /usr/include/c++/8/cstdio:42,
+                 from /usr/include/c++/8/ext/string_conversions.h:43,
+                 from /usr/include/c++/8/bits/basic_string.h:6404,
+                 from /usr/include/c++/8/string:52,
+                 from /usr/include/c++/8/bits/locale_classes.h:40,
+                 from /usr/include/c++/8/bits/ios_base.h:41,
+                 from /usr/include/c++/8/ios:42,
+                 from /usr/include/c++/8/ostream:38,
+                 from /usr/include/c++/8/iostream:39,
+                 from DBM.cpp:1:
+/usr/include/stdio.h:492:12: note: declared here
+ extern int getc (FILE *__stream);
+            ^~~~
+DBM.cpp:375:14: error: too few arguments to function ‘int getc(FILE*)’
+  disp();getc();goto custmenu;
+              ^
+In file included from /usr/include/c++/8/cstdio:42,
+                 from /usr/include/c++/8/ext/string_conversions.h:43,
+                 from /usr/include/c++/8/bits/basic_string.h:6404,
+                 from /usr/include/c++/8/string:52,
+                 from /usr/include/c++/8/bits/locale_classes.h:40,
+                 from /usr/include/c++/8/bits/ios_base.h:41,
+                 from /usr/include/c++/8/ios:42,
+                 from /usr/include/c++/8/ostream:38,
+                 from /usr/include/c++/8/iostream:39,
+                 from DBM.cpp:1:
+/usr/include/stdio.h:492:12: note: declared here
+ extern int getc (FILE *__stream);
+            ^~~~
+DBM.cpp:381:7: error: too few arguments to function ‘int getc(FILE*)’
+  getc();
+       ^
+In file included from /usr/include/c++/8/cstdio:42,
+                 from /usr/include/c++/8/ext/string_conversions.h:43,
+                 from /usr/include/c++/8/bits/basic_string.h:6404,
+                 from /usr/include/c++/8/string:52,
+                 from /usr/include/c++/8/bits/locale_classes.h:40,
+                 from /usr/include/c++/8/bits/ios_base.h:41,
+                 from /usr/include/c++/8/ios:42,
+                 from /usr/include/c++/8/ostream:38,
+                 from /usr/include/c++/8/iostream:39,
+                 from DBM.cpp:1:
+/usr/include/stdio.h:492:12: note: declared here
+ extern int getc (FILE *__stream);
+            ^~~~
+DBM.cpp:394:17: error: too few arguments to function ‘int getc(FILE*)’
+   pass2[z]=getc();
+                 ^
+In file included from /usr/include/c++/8/cstdio:42,
+                 from /usr/include/c++/8/ext/string_conversions.h:43,
+                 from /usr/include/c++/8/bits/basic_string.h:6404,
+                 from /usr/include/c++/8/string:52,
+                 from /usr/include/c++/8/bits/locale_classes.h:40,
+                 from /usr/include/c++/8/bits/ios_base.h:41,
+                 from /usr/include/c++/8/ios:42,
+                 from /usr/include/c++/8/ostream:38,
+                 from /usr/include/c++/8/iostream:39,
+                 from DBM.cpp:1:
+/usr/include/stdio.h:492:12: note: declared here
+ extern int getc (FILE *__stream);
+            ^~~~
+DBM.cpp:414:14: error: too few arguments to function ‘int getc(FILE*)’
+  disp();getc();goto empmenu;
+              ^
+In file included from /usr/include/c++/8/cstdio:42,
+                 from /usr/include/c++/8/ext/string_conversions.h:43,
+                 from /usr/include/c++/8/bits/basic_string.h:6404,
+                 from /usr/include/c++/8/string:52,
+                 from /usr/include/c++/8/bits/locale_classes.h:40,
+                 from /usr/include/c++/8/bits/ios_base.h:41,
+                 from /usr/include/c++/8/ios:42,
+                 from /usr/include/c++/8/ostream:38,
+                 from /usr/include/c++/8/iostream:39,
+                 from DBM.cpp:1:
+/usr/include/stdio.h:492:12: note: declared here
+ extern int getc (FILE *__stream);
+            ^~~~
+DBM.cpp:424:7: error: too few arguments to function ‘int getc(FILE*)’
+  getc();
+       ^
+In file included from /usr/include/c++/8/cstdio:42,
+                 from /usr/include/c++/8/ext/string_conversions.h:43,
+                 from /usr/include/c++/8/bits/basic_string.h:6404,
+                 from /usr/include/c++/8/string:52,
+                 from /usr/include/c++/8/bits/locale_classes.h:40,
+                 from /usr/include/c++/8/bits/ios_base.h:41,
+                 from /usr/include/c++/8/ios:42,
+                 from /usr/include/c++/8/ostream:38,
+                 from /usr/include/c++/8/iostream:39,
+                 from DBM.cpp:1:
+/usr/include/stdio.h:492:12: note: declared here
+ extern int getc (FILE *__stream);
+            ^~~~
+DBM.cpp:431:7: error: too few arguments to function ‘int getc(FILE*)’
+  getc();
+       ^
+In file included from /usr/include/c++/8/cstdio:42,
+                 from /usr/include/c++/8/ext/string_conversions.h:43,
+                 from /usr/include/c++/8/bits/basic_string.h:6404,
+                 from /usr/include/c++/8/string:52,
+                 from /usr/include/c++/8/bits/locale_classes.h:40,
+                 from /usr/include/c++/8/bits/ios_base.h:41,
+                 from /usr/include/c++/8/ios:42,
+                 from /usr/include/c++/8/ostream:38,
+                 from /usr/include/c++/8/iostream:39,
+                 from DBM.cpp:1:
+/usr/include/stdio.h:492:12: note: declared here
+ extern int getc (FILE *__stream);
+            ^~~~
+DBM.cpp:432:7: error: too few arguments to function ‘int getc(FILE*)’
+  getc();
+       ^
+In file included from /usr/include/c++/8/cstdio:42,
+                 from /usr/include/c++/8/ext/string_conversions.h:43,
+                 from /usr/include/c++/8/bits/basic_string.h:6404,
+                 from /usr/include/c++/8/string:52,
+                 from /usr/include/c++/8/bits/locale_classes.h:40,
+                 from /usr/include/c++/8/bits/ios_base.h:41,
+                 from /usr/include/c++/8/ios:42,
+                 from /usr/include/c++/8/ostream:38,
+                 from /usr/include/c++/8/iostream:39,
+                 from DBM.cpp:1:
+/usr/include/stdio.h:492:12: note: declared here
+ extern int getc (FILE *__stream);
+            ^~~~
+DBM.cpp:433:7: error: too few arguments to function ‘int getc(FILE*)’
+  getc();
+       ^
+In file included from /usr/include/c++/8/cstdio:42,
+                 from /usr/include/c++/8/ext/string_conversions.h:43,
+                 from /usr/include/c++/8/bits/basic_string.h:6404,
+                 from /usr/include/c++/8/string:52,
+                 from /usr/include/c++/8/bits/locale_classes.h:40,
+                 from /usr/include/c++/8/bits/ios_base.h:41,
+                 from /usr/include/c++/8/ios:42,
+                 from /usr/include/c++/8/ostream:38,
+                 from /usr/include/c++/8/iostream:39,
+                 from DBM.cpp:1:
+/usr/include/stdio.h:492:12: note: declared here
+ extern int getc (FILE *__stream);
+            ^~~~
+DBM.cpp:434:7: error: too few arguments to function ‘int getc(FILE*)’
+  getc();
+       ^
+In file included from /usr/include/c++/8/cstdio:42,
+                 from /usr/include/c++/8/ext/string_conversions.h:43,
+                 from /usr/include/c++/8/bits/basic_string.h:6404,
+                 from /usr/include/c++/8/string:52,
+                 from /usr/include/c++/8/bits/locale_classes.h:40,
+                 from /usr/include/c++/8/bits/ios_base.h:41,
+                 from /usr/include/c++/8/ios:42,
+                 from /usr/include/c++/8/ostream:38,
+                 from /usr/include/c++/8/iostream:39,
+                 from DBM.cpp:1:
+/usr/include/stdio.h:492:12: note: declared here
+ extern int getc (FILE *__stream);
+            ^~~~
+DBM.cpp:435:7: error: too few arguments to function ‘int getc(FILE*)’
+  getc();
+       ^
+In file included from /usr/include/c++/8/cstdio:42,
+                 from /usr/include/c++/8/ext/string_conversions.h:43,
+                 from /usr/include/c++/8/bits/basic_string.h:6404,
+                 from /usr/include/c++/8/string:52,
+                 from /usr/include/c++/8/bits/locale_classes.h:40,
+                 from /usr/include/c++/8/bits/ios_base.h:41,
+                 from /usr/include/c++/8/ios:42,
+                 from /usr/include/c++/8/ostream:38,
+                 from /usr/include/c++/8/iostream:39,
+                 from DBM.cpp:1:
+/usr/include/stdio.h:492:12: note: declared here
+ extern int getc (FILE *__stream);
+            ^~~~
+DBM.cpp:442:14: error: too few arguments to function ‘int getc(FILE*)’
+         getc();
+              ^
+In file included from /usr/include/c++/8/cstdio:42,
+                 from /usr/include/c++/8/ext/string_conversions.h:43,
+                 from /usr/include/c++/8/bits/basic_string.h:6404,
+                 from /usr/include/c++/8/string:52,
+                 from /usr/include/c++/8/bits/locale_classes.h:40,
+                 from /usr/include/c++/8/bits/ios_base.h:41,
+                 from /usr/include/c++/8/ios:42,
+                 from /usr/include/c++/8/ostream:38,
+                 from /usr/include/c++/8/iostream:39,
+                 from DBM.cpp:1:
+/usr/include/stdio.h:492:12: note: declared here
+ extern int getc (FILE *__stream);
+            ^~~~
